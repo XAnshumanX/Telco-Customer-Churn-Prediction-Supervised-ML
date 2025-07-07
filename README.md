@@ -44,3 +44,28 @@ This project focuses on customer churn in the telecommunications sector, aiming 
 4. **Model Evaluation:** Assess the model using the evaluation metrics outlined, ensuring that the results meet business objectives for reducing churn.
 
 This project offers valuable insights into customer behavior, allowing telecommunications companies to implement targeted retention strategies to enhance customer loyalty and profitability.
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+Hi, I’m Anshuman Chawhan,
+An innovative Data Scientist with a strong foundation in Python, SQL, Excel, Tableau, and Power BI. 
+
+Passionate about transforming raw data into actionable insights, I bring a methodical approach to problem-solving and a commitment to leveraging data to drive strategic business decisions. 
+
+Skilled in managing and analyzing complex datasets, developing insightful reports, and designing impactful dashboards.
+
+
+- 👋 Hi, I’m Anshuman Chawhan
+- 👀 I’m interested in Data Science and Data Analysis.
+- 🌱 I have completed the Advanced Certification in Full Stack Data Science and AI (E&ICT) from IIT Guwahati.
+- 💼 Actively seeking impactful roles — internships or full-time — where I can apply my data science skills to drive real-world results.
+- 📫 How to reach me
+    - Linkedin-  https://www.linkedin.com/in/anshumanchawhan/
+    - Email- chawhananshuman1@gmail.com
+
+
